@@ -1,0 +1,1000 @@
+﻿Title,Code,Demographic Group,Population,Period,Estimate,Unit,Lower CI,Upper CI,SE,Locality,Disparity Group Rank,Disparity Rate Ratio,Disparity Lower CI,Disparity Upper CI,Disparity SE
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Total,Total,2013-16,17.8,percent,16.1,19.6,0.835,United States,,,,,
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Sex,Male,2013-16,18.1,percent,16,20.4,1.055,United States,2,1.039,1,1.222,0.072
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Sex,Female,2013-16,17.5,percent,15.4,19.6,1.01,United States,1,1,1,1.133,0.014
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Race/Ethnicity,Hispanic or Latino,2013-16,23.6,percent,21.2,26.1,1.181,United States,4,2.415,1.889,3.233,0.328
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Race/Ethnicity,Hispanic or Latino: Mexican American,2013-16,24.2,percent,21.4,27.2,1.387,United States,,,,,
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Race/Ethnicity,Not Hispanic or Latino: Asian only,2013-16,9.8,percent,7.4,12.6,1.219,United States,1,1,1,1,0
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Race/Ethnicity,Not Hispanic or Latino: Black or African American only,2013-16,20.4,percent,17.1,24.1,1.665,United States,3,2.089,1.574,2.856,0.314
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Race/Ethnicity,Not Hispanic or Latino: White only,2013-16,14.7,percent,12.7,16.9,1.002,United States,2,1.502,1.154,2.029,0.215
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Age group,2-5 years,2013-16,11.6,percent,9.8,13.6,0.915,United States,1,1,1,1,0
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Age group,6-11 years,2013-16,17.9,percent,15.5,20.5,1.208,United States,2,1.538,1.255,1.89,0.159
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Age group,12-19 years,2013-16,20.6,percent,17.6,23.8,1.469,United States,3,1.769,1.445,2.189,0.187
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Family income (percent poverty guidelines),less than 100,2013-16,21,percent,18.7,23.4,1.124,United States,4,1.726,1.312,2.464,0.277
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Family income (percent poverty guidelines),100-199,2013-16,20.7,percent,18.5,23.1,1.108,United States,3,1.701,1.29,2.424,0.271
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Family income (percent poverty guidelines),200-399,2013-16,16.9,percent,14.1,20,1.408,United States,2,1.388,1.009,2.025,0.241
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Family income (percent poverty guidelines),400 plus,2013-16,12.2,percent,8.7,16.4,1.823,United States,1,1,1,1,0
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Health insurance status,Insured,2013-16,17.5,percent,15.7,19.3,0.855,United States,,,,,
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Health insurance status,Insured: Private,2013-16,14.8,percent,12.8,16.9,0.994,United States,1,1,1,1,0
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Health insurance status,Insured: Public,2013-16,20.9,percent,18.6,23.2,1.108,United States,2,1.412,1.201,1.683,0.121
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Health insurance status,Uninsured,2013-16,20.9,percent,15.6,27,2.685,United States,3,1.413,1.027,1.843,0.204
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Country of birth,US,2013-16,18.1,percent,16.4,19.9,0.86,United States,2,1.471,1.151,1.996,0.2
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Country of birth,Outside US,2013-16,12.3,percent,9.2,16,1.598,United States,1,1,1,1,0
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Total,Total,2017-20,19.7,percent,17.9,21.6,0.876,United States,,,,,
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Sex,Male,2017-20,20.9,percent,18.9,22.9,0.974,United States,2,1.124,1,1.31,0.086
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Sex,Female,2017-20,18.5,percent,16.3,21,1.117,United States,1,1,1,1.032,0
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Race/Ethnicity,Hispanic or Latino,2017-20,26.2,percent,22.4,30.2,1.839,United States,4,2.891,2.265,3.793,0.377
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Race/Ethnicity,Hispanic or Latino: Mexican American,2017-20,27.8,percent,23.2,32.7,2.223,United States,,,,,
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Race/Ethnicity,Not Hispanic or Latino: Asian only,2017-20,9,percent,6.5,12.2,0.981,United States,1,1,1,1,0
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Race/Ethnicity,Not Hispanic or Latino: Black or African American only,2017-20,24.8,percent,21.6,28.1,1.539,United States,3,2.739,2.166,3.56,0.346
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Race/Ethnicity,Not Hispanic or Latino: White only,2017-20,16.6,percent,13.7,19.8,1.448,United States,2,1.83,1.395,2.424,0.256
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Age group,2-5 years,2017-20,12.6,percent,10.8,14.7,0.896,United States,1,1,1,1,0
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Age group,6-11 years,2017-20,20.9,percent,18.1,23.9,1.367,United States,2,1.657,1.369,2.003,0.16
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Age group,12-19 years,2017-20,22.1,percent,19.6,24.8,1.245,United States,3,1.755,1.48,2.108,0.157
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Family income (percent poverty guidelines),less than 100,2017-20,24.9,percent,21.5,28.5,1.671,United States,3,2.367,1.757,3.4,0.39
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Family income (percent poverty guidelines),100-199,2017-20,25.6,percent,21.3,30.4,2.144,United States,4,2.437,1.778,3.546,0.422
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Family income (percent poverty guidelines),200-399,2017-20,18.7,percent,15.5,22.2,1.575,United States,2,1.776,1.288,2.594,0.31
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Family income (percent poverty guidelines),400 plus,2017-20,10.5,percent,7.5,14.3,1.579,United States,1,1,1,1,0
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Health insurance status,Insured,2017-20,19.1,percent,17.1,21.1,0.946,United States,,,,,
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Health insurance status,Insured: Private,2017-20,14.5,percent,12.3,17,1.111,United States,1,1,1,1,0
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Health insurance status,Insured: Public,2017-20,24.6,percent,21.7,27.7,1.435,United States,2,1.695,1.411,2.063,0.163
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Health insurance status,Uninsured,2017-20,28.7,percent,21.6,36.6,3.528,United States,3,1.974,1.446,2.592,0.286
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Country of birth,US,2017-20,20.1,percent,18.2,22,0.922,United States,2,1.443,1,2.73,0.357
+Reduce the proportion of children and adolescents with obesity - NWS-04,NWS-04,Country of birth,Outside US,2017-20,13.9,percent,7.7,22.5,3.366,United States,1,1,1,1.03,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),400 plus,2020,1.5,percent,1.2,1.7,0.135,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),400 plus,2019,1.7,percent,1.4,2,0.145,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),400 plus,2021,1.8,percent,1.5,2.2,0.167,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),400 plus,2018,1.9,percent,1.6,2.2,0.144,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),400 plus,2022,2.7,percent,2.3,3.1,0.189,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),400 plus,2023,3.5,percent,3.1,4,0.22,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Asian only,2020,4.5,percent,3.2,5.7,0.638,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),4-year college degree or more,2020,4.5,percent,4.2,4.9,0.188,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),4-year college degree or more,2018,4.6,percent,4.2,5,0.206,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),4-year college degree or more,2019,4.6,percent,4.2,5,0.204,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),4-year college degree or more,2021,4.6,percent,4.2,5,0.195,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Asian only,2020,4.9,percent,3.6,6.1,0.624,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Asian only,2019,5,percent,3.6,6.4,0.706,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Asian only,2019,5,percent,3.6,6.4,0.71,United States,1,1,1,1.493,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Asian only,2022,5.7,percent,4.4,7.1,0.699,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),Married/Cohabiting partner,2019,5.8,percent,5.4,6.3,0.211,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Asian only,2022,5.8,percent,4.4,7.2,0.705,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Asian only,2018,5.9,percent,4.6,7.3,0.706,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),Married/Cohabiting partner,2021,6,percent,5.6,6.5,0.241,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Asian only,2021,6.1,percent,4.7,7.4,0.699,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Asian only,2021,6.1,percent,4.7,7.5,0.714,United States,1,1,1,1.7,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),4-year college degree or more,2022,6.1,percent,5.6,6.5,0.235,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Asian only,2023,6.1,percent,4.7,7.5,0.712,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,"Veteran status (of household reference person, 17 years and over)",Veteran,2020,6.2,percent,5.2,7.2,0.501,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Asian only,2018,6.3,percent,4.9,7.7,0.71,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Asian only,2023,6.3,percent,4.9,7.8,0.733,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),Married/Cohabiting partner,2018,6.4,percent,6,6.8,0.204,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),4-year college degree or more,2023,6.6,percent,6.1,7.2,0.274,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),Married/Cohabiting partner,2020,6.7,percent,6.2,7.1,0.236,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,"Veteran status (of household reference person, 17 years and over)",Veteran,2019,6.8,percent,5.7,7.8,0.526,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family composition,With one or more persons aged 65 years and over,2020,6.9,percent,6.4,7.4,0.272,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: White only,2021,7,percent,6.6,7.4,0.206,United States,2,1.149,1,1.926,0.155
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: White only,2020,7.1,percent,6.7,7.5,0.198,United States,2,1.582,1.224,2.201,0.232
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family composition,With one or more persons aged 65 years and over,2021,7.1,percent,6.5,7.7,0.297,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family composition,With one or more persons aged 65 years and over,2019,7.2,percent,6.6,7.8,0.308,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Disability status (of any adults in household),No adults with disabilities,2021,7.4,percent,7,7.8,0.197,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family composition,With one or more persons aged 65 years and over,2018,7.5,percent,6.9,8.1,0.306,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,"Veteran status (of household reference person, 17 years and over)",Veteran,2018,7.6,percent,6.6,8.7,0.518,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Disability status (of any adults in household),No adults with disabilities,2019,7.6,percent,7.3,8,0.18,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,"Veteran status (of household reference person, 17 years and over)",Veteran,2021,7.8,percent,6.5,9.1,0.679,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: White only,2019,7.9,percent,7.5,8.3,0.203,United States,2,1.594,1.243,2.543,0.252
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),Married/Cohabiting partner,2022,8,percent,7.6,8.5,0.241,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: White only,2018,8.1,percent,7.7,8.5,0.209,United States,2,1.362,1.095,1.812,0.17
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Disability status (of any adults in household),No adults with disabilities,2018,8.1,percent,7.7,8.5,0.21,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Disability status (of any adults in household),No adults with disabilities,2020,8.3,percent,7.9,8.7,0.208,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),White only,2021,8.5,percent,8.1,8.9,0.205,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),Married/Cohabiting partner,2023,8.5,percent,8,9,0.255,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),200-399,2021,8.6,percent,7.9,9.3,0.375,United States,2,4.688,3.896,5.79,0.479
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),White only,2020,8.7,percent,8.4,9.1,0.198,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Native Hawaiian or Other Pacific Islander only,2021,8.7,percent,2.9,14.5,2.965,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,"Veteran status (of household reference person, 17 years and over)",Veteran,2022,8.7,percent,7.5,10,0.643,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,"Veteran status (of household reference person, 17 years and over)",Veteran,2023,8.8,percent,7.6,10.1,0.632,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family composition,With one or more persons aged 65 years and over,2022,9.1,percent,8.5,9.7,0.317,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),White only,2018,9.2,percent,8.8,9.7,0.214,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),White only,2019,9.2,percent,8.8,9.6,0.197,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),200-399,2019,9.2,percent,8.4,10,0.397,United States,2,5.386,4.514,6.564,0.52
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),200-399,2020,9.2,percent,8.4,10,0.414,United States,2,6.266,5.196,7.752,0.646
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino,2021,9.2,percent,8.8,9.6,0.214,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: White only,2022,9.3,percent,8.8,9.7,0.214,United States,2,1.609,1.288,2.12,0.202
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family composition,With one or more persons aged 65 years and over,2023,9.3,percent,8.7,9.9,0.32,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander only,2019,9.4,percent,3.3,15.4,3.073,United States,3,1.88,1,3.425,0.677
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino,2020,9.4,percent,9,9.9,0.219,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),200-399,2018,9.5,percent,8.7,10.2,0.375,United States,2,4.996,4.259,5.958,0.432
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino,2019,9.7,percent,9.3,10.1,0.198,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Country of birth (of household reference person),US,2021,9.7,percent,9.2,10.1,0.224,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Disability status (of any adults in household),No adults with disabilities,2022,9.9,percent,9.5,10.4,0.237,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: White only,2023,9.9,percent,9.4,10.4,0.247,United States,2,1.608,1.297,2.089,0.193
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Country of birth (of household reference person),US,2020,10,percent,9.5,10.4,0.232,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Geographic location,Metropolitan,2021,10.1,percent,9.7,10.6,0.208,United States,1,1,1,1.056,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino,2018,10.2,percent,9.8,10.6,0.212,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Total,Total,2021,10.2,percent,9.8,10.6,0.206,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Geographic location,Metropolitan,2019,10.3,percent,9.9,10.7,0.222,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Geographic location,Metropolitan,2020,10.4,percent,9.9,10.8,0.225,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Total,Total,2019,10.5,percent,10.2,10.9,0.187,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Native Hawaiian or Other Pacific Islander only,2019,10.5,percent,4.5,16.5,3.067,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Country of birth (of household reference person),US,2019,10.5,percent,10,10.9,0.214,United States,1,1,1,1.064,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Total,Total,2020,10.5,percent,10.1,10.9,0.203,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,"Veteran status (of household reference person, 17 years and over)",Non-veteran,2021,10.5,percent,10.1,10.9,0.215,United States,2,1.343,1.142,1.627,0.12
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Disability status (of any adults in household),No adults with disabilities,2023,10.5,percent,10,11.1,0.276,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander only,2021,10.6,percent,3.6,17.6,3.581,United States,3,1.732,1,3.087,0.618
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Geographic location,Metropolitan,2018,10.8,percent,10.4,11.2,0.223,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Geographic location,Non-metropolitan,2021,10.8,percent,9.7,11.9,0.575,United States,2,1.063,1,1.182,0.059
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Country of birth (of household reference person),US,2018,10.9,percent,10.5,11.4,0.227,United States,1,1,1,1.035,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Country of birth (of household reference person),Outside US,2019,10.9,percent,9.9,11.9,0.508,United States,2,1.041,1,1.148,0.052
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,"Veteran status (of household reference person, 17 years and over)",Non-veteran,2019,10.9,percent,10.5,11.3,0.203,United States,2,1.614,1.395,1.911,0.129
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),200-399,2022,10.9,percent,10,11.7,0.41,United States,2,4.02,3.465,4.728,0.321
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,"Veteran status (of household reference person, 17 years and over)",Non-veteran,2020,11,percent,10.6,11.4,0.209,United States,2,1.766,1.519,2.106,0.146
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),White only,2022,11,percent,10.6,11.5,0.215,United States,,,,,
+Reduce household food insecurity and hungerï¿½ - NWS-01,NWS-01,Total,Total,2018,11.1,percent,10.7,11.5,0.208,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,"Veteran status (of household reference person, 17 years and over)",Non-veteran,2018,11.4,percent,11,11.9,0.225,United States,2,1.496,1.313,1.736,0.106
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino,2022,11.4,percent,11,11.8,0.221,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Geographic location,Non-metropolitan,2020,11.6,percent,10.7,12.6,0.492,United States,2,1.12,1.02,1.227,0.052
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Country of birth (of household reference person),Outside US,2018,11.7,percent,10.7,12.7,0.527,United States,2,1.067,1,1.173,0.052
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),White only,2023,11.7,percent,11.2,12.2,0.248,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Country of birth (of household reference person),US,2022,11.9,percent,11.4,12.3,0.237,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Geographic location,Non-metropolitan,2019,12.1,percent,11.2,13,0.472,United States,2,1.176,1.077,1.28,0.052
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino,2023,12.1,percent,11.6,12.6,0.25,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family composition,With children ages less than  18,2021,12.5,percent,11.7,13.3,0.407,United States,2,1.754,1.584,1.947,0.093
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Geographic location,Metropolitan,2022,12.5,percent,12,13,0.239,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),200-399,2023,12.6,percent,11.7,13.4,0.424,United States,2,3.552,3.11,4.101,0.252
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Geographic location,Non-metropolitan,2018,12.7,percent,11.6,13.8,0.57,United States,2,1.176,1.066,1.291,0.057
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Total,Total,2022,12.8,percent,12.4,13.2,0.224,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Country of birth (of household reference person),US,2023,12.9,percent,12.4,13.4,0.251,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Country of birth (of household reference person),Outside US,2021,13,percent,11.9,14.1,0.545,United States,2,1.342,1.22,1.471,0.064
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),Some college or Associate degree,2021,13.1,percent,12.3,14,0.454,United States,2,2.841,2.557,3.162,0.155
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,"Veteran status (of household reference person, 17 years and over)",Non-veteran,2022,13.2,percent,12.7,13.6,0.24,United States,2,1.51,1.313,1.773,0.115
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Geographic location,Metropolitan,2023,13.2,percent,12.8,13.7,0.25,United States,1,1,1,1,0
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),Some college or Associate degree,2019,13.4,percent,12.6,14.1,0.386,United States,2,2.898,2.617,3.221,0.152
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),Some college or Associate degree,2020,13.4,percent,12.5,14.3,0.443,United States,2,2.969,2.68,3.297,0.157
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Country of birth (of household reference person),Outside US,2020,13.4,percent,12.2,14.7,0.636,United States,2,1.345,1.21,1.488,0.07
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),"Divorced, separated, widowed",2020,13.5,percent,12.7,14.3,0.422,United States,2,2.026,1.849,2.222,0.097
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Total,Total,2023,13.5,percent,13.1,14,0.234,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family composition,With children ages less than  18,2019,13.6,percent,12.8,14.5,0.438,United States,2,1.892,1.708,2.102,0.102
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),"Divorced, separated, widowed",2021,13.7,percent,12.8,14.5,0.426,United States,2,2.269,2.058,2.508,0.116
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family composition,With children ages less than  18,2018,13.9,percent,13.1,14.7,0.409,United States,2,1.859,1.688,2.054,0.094
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,"Veteran status (of household reference person, 17 years and over)",Non-veteran,2023,14,percent,13.5,14.5,0.253,United States,2,1.585,1.383,1.852,0.117
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),Some college or Associate degree,2018,14.5,percent,13.6,15.4,0.454,United States,2,3.148,2.834,3.511,0.171
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),"Divorced, separated, widowed",2019,14.5,percent,13.7,15.2,0.385,United States,2,2.477,2.272,2.705,0.112
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),Never married,2021,14.5,percent,13.5,15.5,0.511,United States,3,2.404,2.167,2.668,0.128
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),"Divorced, separated, widowed",2018,14.6,percent,13.7,15.4,0.413,United States,2,2.286,2.104,2.486,0.099
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Geographic location,Non-metropolitan,2022,14.7,percent,13.5,16,0.655,United States,2,1.18,1.072,1.293,0.056
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),Never married,2020,14.8,percent,13.8,15.8,0.507,United States,3,2.225,2.021,2.449,0.109
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family composition,With children ages less than  18,2020,14.8,percent,14,15.7,0.437,United States,2,2.15,1.956,2.37,0.107
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),Never married,2019,15.5,percent,14.4,16.5,0.529,United States,3,2.646,2.401,2.914,0.131
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Geographic location,Non-metropolitan,2023,15.5,percent,14.1,16.7,0.64,United States,2,1.167,1.066,1.272,0.052
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Hispanic or Latino,2019,15.6,percent,14.3,17,0.672,United States,4,3.141,2.429,4.982,0.509
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),High school,2021,15.6,percent,14.4,16.8,0.597,United States,3,3.368,3.02,3.772,0.193
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),High school,2019,15.7,percent,14.8,16.7,0.488,United States,3,3.413,3.079,3.805,0.185
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Hispanic or Latino,2018,16.2,percent,14.9,17.6,0.689,United States,3,2.733,2.17,3.666,0.355
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander only,2018,16.2,percent,7,25.5,4.716,United States,4,2.733,1.164,4.632,0.857
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Hispanic or Latino,2021,16.2,percent,14.9,17.6,0.708,United States,4,2.66,2.223,4.46,0.368
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),Some college or Associate degree,2022,16.4,percent,15.5,17.4,0.481,United States,2,2.715,2.472,2.989,0.132
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),High school,2018,16.6,percent,15.6,17.6,0.53,United States,3,3.607,3.249,4.029,0.198
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Country of birth (of household reference person),Outside US,2023,16.6,percent,15.4,17.9,0.646,United States,2,1.292,1.185,1.405,0.055
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),2 or more races,2018,16.8,percent,13.3,20.3,1.784,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),Never married,2018,16.9,percent,15.9,17.9,0.511,United States,3,2.65,2.431,2.888,0.117
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),High school,2020,16.9,percent,15.8,18,0.563,United States,3,3.744,3.382,4.166,0.2
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Country of birth (of household reference person),Outside US,2022,17.1,percent,15.8,18.4,0.656,United States,2,1.442,1.323,1.567,0.062
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Hispanic or Latino,2020,17.2,percent,15.8,18.6,0.704,United States,3,3.819,2.93,5.335,0.574
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),"Divorced, separated, widowed",2022,17.2,percent,16.3,18.1,0.461,United States,2,2.133,1.973,2.308,0.087
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),Never married,2022,17.3,percent,16.1,18.5,0.596,United States,3,2.151,1.967,2.349,0.098
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family composition,With children ages less than  18,2022,17.3,percent,16.4,18.2,0.476,United States,2,1.894,1.738,2.066,0.084
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),Some college or Associate degree,2023,17.3,percent,16.2,18.4,0.544,United States,2,2.613,2.363,2.896,0.136
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),"Divorced, separated, widowed",2023,17.3,percent,16.4,18.2,0.453,United States,2,2.032,1.881,2.196,0.082
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Native Hawaiian or Other Pacific Islander only,2018,17.9,percent,8.6,27.1,4.696,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: 2 or more races,2018,17.9,percent,14.2,21.5,1.877,United States,5,3.01,2.202,4.225,0.489
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family composition,With children ages less than  18,2023,17.9,percent,17,18.9,0.482,United States,2,1.923,1.768,2.095,0.084
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Native Hawaiian or Other Pacific Islander only,2020,18.2,percent,8.4,28,4.998,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: American Indian or Alaska Native only,2020,18.4,percent,13.8,23.1,2.348,United States,4,4.103,2.813,6.108,0.787
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: American Indian or Alaska Native only,2021,18.4,percent,12.1,24.7,3.206,United States,5,3.019,1.96,5.304,0.679
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Disability status (of any adults in household),One or more adults with disabilities,2020,18.5,percent,17.6,19.5,0.506,United States,2,2.242,2.084,2.41,0.084
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Black or African American only,2019,18.7,percent,17.2,20.3,0.786,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),2 or more races,2020,18.9,percent,14.5,23.3,2.244,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: 2 or more races,2020,19,percent,14.3,23.8,2.429,United States,5,4.232,2.891,6.286,0.823
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Marital status (of household reference person),Never married,2023,19,percent,17.8,20.3,0.628,United States,3,2.236,2.049,2.437,0.099
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Black or African American only,2019,19.1,percent,17.5,20.7,0.809,United States,5,3.833,2.966,6.109,0.627
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: 2 or more races,2019,19.3,percent,14.9,23.8,2.277,United States,6,3.882,2.719,6.452,0.767
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),American Indian or Alaska Native only,2019,19.4,percent,14.7,24.2,2.438,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),American Indian or Alaska Native only,2021,19.4,percent,14.2,24.6,2.67,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Disability status (of any adults in household),One or more adults with disabilities,2021,19.4,percent,18.3,20.4,0.543,United States,2,2.617,2.425,2.822,0.102
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),High school,2022,19.6,percent,18.3,20.9,0.653,United States,3,3.234,2.931,3.581,0.166
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),American Indian or Alaska Native only,2020,19.8,percent,15.6,23.9,2.118,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Black or African American only,2021,19.8,percent,18.2,21.4,0.811,United States,6,3.241,2.715,5.416,0.446
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Black or African American only,2021,19.9,percent,18.4,21.5,0.798,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Disability status (of any adults in household),One or more adults with disabilities,2019,20.3,percent,19.4,21.3,0.503,United States,2,2.669,2.495,2.852,0.092
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),2 or more races,2019,20.6,percent,16,25.2,2.338,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Hispanic or Latino,2022,20.8,percent,19.2,22.4,0.81,United States,3,3.614,2.862,4.789,0.468
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),High school,2023,20.9,percent,19.7,22.1,0.601,United States,3,3.152,2.862,3.488,0.159
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander only,2020,21,percent,10,31.9,5.584,United States,6,4.668,2.132,7.946,1.405
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Disability status (of any adults in household),One or more adults with disabilities,2018,21.1,percent,20,22.1,0.537,United States,2,2.592,2.414,2.782,0.095
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Black or African American only,2018,21.2,percent,19.5,23,0.898,United States,6,3.576,2.843,4.806,0.465
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Black or African American only,2018,21.3,percent,19.6,23,0.87,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Black or African American only,2020,21.3,percent,19.7,23,0.829,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),100-199,2021,21.5,percent,20,23,0.758,United States,3,11.723,9.798,14.389,1.142
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Black or African American only,2020,21.7,percent,20.1,23.4,0.85,United States,7,4.835,3.729,6.747,0.72
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),2 or more races,2021,21.8,percent,17.3,26.3,2.302,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),100-199,2019,21.9,percent,20.7,23.1,0.622,United States,3,12.867,10.919,15.531,1.151
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Hispanic or Latino,2023,21.9,percent,20.3,23.6,0.832,United States,3,3.57,2.854,4.663,0.442
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: 2 or more races,2021,22.1,percent,17.2,27,2.492,United States,7,3.618,2.703,6.178,0.626
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander only,2022,22.2,percent,11.2,33.2,5.625,United States,4,3.861,1.898,6.305,1.081
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Disability status (of any adults in household),One or more adults with disabilities,2022,22.2,percent,21.2,23.3,0.54,United States,2,2.24,2.095,2.393,0.077
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Black or African American only,2022,22.4,percent,20.7,24.1,0.882,United States,5,3.893,3.091,5.164,0.508
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Black or African American only,2022,22.6,percent,20.9,24.2,0.844,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: 2 or more races,2022,22.7,percent,17.9,27.5,2.454,United States,6,3.952,2.86,5.508,0.647
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),2 or more races,2022,22.8,percent,18.5,27.1,2.173,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Native Hawaiian or Other Pacific Islander only,2023,22.8,percent,10.9,34.6,6.033,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),100-199,2018,22.9,percent,21.6,24.2,0.678,United States,3,12.069,10.373,14.29,0.984
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Native Hawaiian or Other Pacific Islander only,2022,22.9,percent,12.5,33.2,5.29,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: American Indian or Alaska Native only,2022,23,percent,17,29,3.049,United States,7,4.003,2.765,5.717,0.718
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Disability status (of any adults in household),One or more adults with disabilities,2023,23.2,percent,22.1,24.3,0.544,United States,2,2.202,2.055,2.357,0.078
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Black or African American only,2023,23.3,percent,21.4,25.2,0.99,United States,4,3.796,3.031,4.969,0.472
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),100-199,2020,23.4,percent,21.8,25,0.807,United States,3,15.869,13.264,19.482,1.55
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: American Indian or Alaska Native only,2019,23.6,percent,17.1,30,3.271,United States,7,4.734,3.195,7.959,0.998
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Black or African American only,2023,23.9,percent,22.1,25.7,0.932,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: 2 or more races,2023,23.9,percent,18.5,29.2,2.729,United States,5,3.891,2.805,5.396,0.642
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),Less than High school,2021,24.9,percent,22,27.8,1.486,United States,4,5.38,4.65,6.188,0.394
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),Less than High school,2020,25.1,percent,22.8,27.3,1.143,United States,4,5.546,4.913,6.257,0.342
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),Less than High school,2018,25.2,percent,22.7,27.6,1.264,United States,4,5.468,4.788,6.235,0.368
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),100-199,2022,26,percent,24.6,27.4,0.716,United States,3,9.64,8.381,11.25,0.722
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: American Indian or Alaska Native only,2023,26,percent,19.6,32.5,3.304,United States,6,4.24,2.965,5.954,0.733
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),2 or more races,2023,26.6,percent,22,31.1,2.328,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),Less than High school,2019,26.7,percent,24.3,29,1.216,United States,4,5.787,5.109,6.558,0.368
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),American Indian or Alaska Native only,2023,27.2,percent,21.3,33.2,3.046,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: American Indian or Alaska Native only,2018,27.6,percent,20.9,34.4,3.428,United States,7,4.659,3.288,6.674,0.808
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),100-199,2023,27.8,percent,26,29.5,0.913,United States,3,7.841,6.865,9.05,0.55
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),American Indian or Alaska Native only,2022,28.3,percent,21.5,35,3.459,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander only,2023,29.1,percent,15.2,43,7.083,United States,7,4.734,2.419,7.542,1.266
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Race/Ethnicity (of household reference person),American Indian or Alaska Native only,2018,29.8,percent,23.5,36,3.179,United States,,,,,
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),Less than High school,2022,30.3,percent,27.3,33.3,1.531,United States,4,5.007,4.414,5.661,0.32
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Educational attainment (of most highly educated adult),Less than High school,2023,30.5,percent,27.3,33.7,1.624,United States,4,4.604,4.028,5.246,0.312
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),less than 100,2021,32.1,percent,29.8,34.4,1.158,United States,4,17.524,14.619,21.514,1.728
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),less than 100,2019,34.9,percent,32.9,36.8,0.989,United States,4,20.454,17.346,24.661,1.854
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),less than 100,2018,35.3,percent,33.3,37.3,1.017,United States,4,18.616,15.991,22.023,1.523
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),less than 100,2020,35.3,percent,33.4,37.2,0.972,United States,4,23.982,20.156,29.319,2.316
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),less than 100,2022,36.7,percent,34.8,38.7,0.997,United States,4,13.603,11.819,15.87,1.026
+Reduce household food insecurity and hungerÂ  - NWS-01,NWS-01,Family income (percent poverty threshold),less than 100,2023,38.6,percent,36.6,40.8,1.065,United States,4,10.919,9.599,12.545,0.748
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Total,Total,2013-16,13.5,percent,13.2,13.8,0.162,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Sex,Male,2013-16,13.4,percent,13,13.9,0.209,United States,1,1,1,1.036,0.005
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Sex,Female,2013-16,13.5,percent,13.1,14,0.211,United States,2,1.008,1,1.053,0.017
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Race/Ethnicity,Hispanic or Latino,2013-16,12.8,percent,12.3,13.3,0.261,United States,2,1.449,1.351,1.553,0.052
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Race/Ethnicity,Hispanic or Latino: Mexican American,2013-16,12.5,percent,12,13.1,0.272,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Race/Ethnicity,Not Hispanic or Latino: Asian only,2013-16,8.8,percent,8.3,9.4,0.258,United States,1,1,1,1,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Race/Ethnicity,Not Hispanic or Latino: Black or African American only,2013-16,15.1,percent,14.6,15.7,0.254,United States,4,1.712,1.603,1.832,0.058
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Race/Ethnicity,Not Hispanic or Latino: White only,2013-16,13.7,percent,13.2,14.3,0.257,United States,3,1.555,1.453,1.665,0.054
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,2-18 years,2013-16,14.5,percent,14,14.9,0.216,United States,2,1.107,1.064,1.151,0.022
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,2-18 years: 2-8 years,2013-16,13.3,percent,12.9,13.7,0.214,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,2-8 years: 2-3 years,2013-16,11.2,percent,10.4,12,0.39,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,2-8 years: 4-8 years,2013-16,14.1,percent,13.5,14.7,0.293,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,2-18 years: 9-18 years,2013-16,15.3,percent,14.7,15.9,0.298,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,9-18 years: 9-13 years,2013-16,14.7,percent,14.1,15.4,0.318,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,9-18 years: 14-18 years,2013-16,15.8,percent,14.9,16.6,0.401,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,19 years and over,2013-16,13.1,percent,12.7,13.4,0.173,United States,1,1,1,1,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,19 years and over: 19-50 years,2013-16,13.9,percent,13.4,14.3,0.219,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,19-50 years: 19-30 years,2013-16,14.2,percent,13.4,15,0.392,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,19-50 years: 31-50 years,2013-16,13.6,percent,13.1,14.1,0.246,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,19 years and over: 51 years and over,2013-16,12.1,percent,11.7,12.6,0.22,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,51 years and over: 51-70 years,2013-16,12.3,percent,11.8,12.8,0.257,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,51 years and over: 71 years and over,2013-16,11.5,percent,10.8,12.2,0.346,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Educational attainment (25 years and over),Less than High school,2013-16,14.5,percent,13.6,15.4,0.437,United States,3,1.408,1.311,1.51,0.051
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Educational attainment (25 years and over),High school (including GED or equivalent),2013-16,14.9,percent,14.2,15.7,0.362,United States,4,1.45,1.362,1.54,0.046
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Educational attainment (25 years and over),Some college or Associate degree,2013-16,14,percent,13.3,14.6,0.315,United States,2,1.359,1.281,1.443,0.041
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Educational attainment (25 years and over),4-year college degree or more,2013-16,10.3,percent,9.9,10.7,0.21,United States,1,1,1,1,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Family income (percent poverty guidelines),less than 100,2013-16,14.9,percent,14.2,15.7,0.353,United States,4,1.255,1.182,1.329,0.037
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Family income (percent poverty guidelines),100-199,2013-16,14.6,percent,14,15.2,0.288,United States,3,1.225,1.161,1.291,0.033
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Family income (percent poverty guidelines),200-399,2013-16,14,percent,13.4,14.5,0.278,United States,2,1.175,1.114,1.239,0.031
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Family income (percent poverty guidelines),400 plus,2013-16,11.9,percent,11.4,12.3,0.22,United States,1,1,1,1,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Health insurance status (2-64 years),Insured,2013-16,13.4,percent,13,13.8,0.198,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Health insurance status (2-64 years),Insured: Private,2013-16,12.9,percent,12.5,13.3,0.21,United States,1,1,1,1,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Health insurance status (2-64 years),Insured: Public,2013-16,15.3,percent,14.7,16,0.319,United States,3,1.188,1.128,1.251,0.031
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Health insurance status (2-64 years),Uninsured,2013-16,15.1,percent,14.4,15.7,0.306,United States,2,1.169,1.11,1.229,0.03
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Marital status (20 years and over),Married/Cohabiting partner,2013-16,12.7,percent,12.3,13.1,0.179,United States,1,1,1,1,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Marital status (20 years and over),"Divorced, separated, widowed",2013-16,14.8,percent,13.9,15.7,0.448,United States,3,1.167,1.092,1.245,0.039
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Marital status (20 years and over),Never married,2013-16,14.2,percent,13.1,15.3,0.55,United States,2,1.117,1.027,1.207,0.045
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Country of birth,US,2013-16,14,percent,13.7,14.4,0.184,United States,2,1.333,1.265,1.408,0.036
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Country of birth,Outside US,2013-16,10.5,percent,10,11,0.249,United States,1,1,1,1,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Veteran status (20 years and over),Veteran,2013-16,14.6,percent,13,16.2,0.785,United States,2,1.118,1,1.241,0.062
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Veteran status (20 years and over),Non-veteran,2013-16,13.1,percent,12.7,13.5,0.193,United States,1,1,1,1.004,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Activity limitation (20 years and over),With activity limitations,2013-16,15.7,percent,14.6,16.8,0.536,United States,2,1.243,1.154,1.333,0.046
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Activity limitation (20 years and over),Without activity limitations,2013-16,12.6,percent,12.2,12.9,0.173,United States,1,1,1,1,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Obesity status - Children and Adolescents (19 years and under),With obesity,2013-16,14.5,percent,13.9,15.1,0.298,United States,1,1,1,1.052,0.012
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Obesity status - Children and Adolescents (19 years and under),Without obesity,2013-16,14.6,percent,14.1,15,0.24,United States,2,1.001,1,1.055,0.014
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Obesity status - Adults (20 years and over),With obesity,2013-16,13.8,percent,13.4,14.3,0.202,United States,2,1.094,1.045,1.145,0.026
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Obesity status - Adults (20 years and over),Without obesity,2013-16,12.7,percent,12.2,13.1,0.231,United States,1,1,1,1,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Total,Total,2017-20,13.2,percent,12.7,13.8,0.269,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Sex,Male,2017-20,13.2,percent,12.5,13.9,0.334,United States,1,1,1,1.061,0.014
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Sex,Female,2017-20,13.3,percent,12.7,13.8,0.263,United States,2,1.004,1,1.07,0.019
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Race/Ethnicity,Hispanic or Latino,2017-20,12.2,percent,11.6,12.7,0.264,United States,2,1.38,1.285,1.482,0.05
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Race/Ethnicity,Hispanic or Latino: Mexican American,2017-20,12,percent,11.2,12.7,0.366,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Race/Ethnicity,Not Hispanic or Latino: Asian only,2017-20,8.8,percent,8.3,9.4,0.259,United States,1,1,1,1,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Race/Ethnicity,Not Hispanic or Latino: Black or African American only,2017-20,14.8,percent,14.2,15.4,0.287,United States,4,1.673,1.562,1.796,0.059
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Race/Ethnicity,Not Hispanic or Latino: White only,2017-20,13.5,percent,12.8,14.3,0.383,United States,3,1.534,1.416,1.662,0.063
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,2-18 years,2017-20,14.3,percent,13.8,14.9,0.255,United States,2,1.128,1.066,1.193,0.033
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,2-18 years: 2-8 years,2017-20,13,percent,12.3,13.6,0.318,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,2-8 years: 2-3 years,2017-20,11.4,percent,10.5,12.4,0.463,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,2-8 years: 4-8 years,2017-20,13.7,percent,13,14.3,0.315,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,2-18 years: 9-18 years,2017-20,15.2,percent,14.5,15.9,0.357,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,9-18 years: 9-13 years,2017-20,15.1,percent,14.3,15.8,0.365,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,9-18 years: 14-18 years,2017-20,15.3,percent,14.2,16.4,0.529,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,19 years and over,2017-20,12.7,percent,12.1,13.3,0.288,United States,1,1,1,1,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,19 years and over: 19-50 years,2017-20,13.3,percent,12.4,14.1,0.419,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,19-50 years: 19-30 years,2017-20,12.9,percent,12.1,13.6,0.382,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,19-50 years: 31-50 years,2017-20,13.6,percent,12.5,14.6,0.514,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,19 years and over: 51 years and over,2017-20,12,percent,11.5,12.6,0.266,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,51 years and over: 51-70 years,2017-20,12.3,percent,11.6,13,0.347,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Age group,51 years and over: 71 years and over,2017-20,11.4,percent,10.8,12,0.313,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Educational attainment (25 years and over),Less than High school,2017-20,14.5,percent,13,15.9,0.711,United States,3,1.423,1.268,1.588,0.082
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Educational attainment (25 years and over),High school (including GED or equivalent),2017-20,15.1,percent,14.1,16,0.449,United States,4,1.482,1.365,1.607,0.062
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Educational attainment (25 years and over),Some college or Associate degree,2017-20,13.6,percent,12.6,14.5,0.468,United States,2,1.334,1.221,1.461,0.06
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Educational attainment (25 years and over),4-year college degree or more,2017-20,10.2,percent,9.5,10.8,0.307,United States,1,1,1,1,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Family income (percent poverty guidelines),less than 100,2017-20,15.8,percent,14.8,16.8,0.483,United States,4,1.369,1.262,1.482,0.056
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Family income (percent poverty guidelines),100-199,2017-20,14.2,percent,13.7,14.7,0.248,United States,3,1.229,1.154,1.311,0.04
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Family income (percent poverty guidelines),200-399,2017-20,13.8,percent,13,14.5,0.359,United States,2,1.195,1.111,1.288,0.044
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Family income (percent poverty guidelines),400 plus,2017-20,11.5,percent,10.9,12.2,0.316,United States,1,1,1,1,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Health insurance status (2-64 years),Insured,2017-20,13.3,percent,12.6,14,0.332,United States,,,,,
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Health insurance status (2-64 years),Insured: Private,2017-20,12.4,percent,11.8,13,0.293,United States,1,1,1,1,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Health insurance status (2-64 years),Insured: Public,2017-20,15.5,percent,14.5,16.5,0.487,United States,3,1.252,1.159,1.351,0.049
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Health insurance status (2-64 years),Uninsured,2017-20,14.4,percent,13.4,15.3,0.467,United States,2,1.16,1.071,1.252,0.047
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Marital status (20 years and over),Married/Cohabiting partner,2017-20,12.4,percent,11.6,13.2,0.374,United States,1,1,1,1,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Marital status (20 years and over),"Divorced, separated, widowed",2017-20,14.3,percent,12.8,15.8,0.731,United States,3,1.157,1.029,1.297,0.069
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Marital status (20 years and over),Never married,2017-20,14.1,percent,13.1,15.2,0.508,United States,2,1.138,1.038,1.246,0.053
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Country of birth,US,2017-20,13.7,percent,13.1,14.2,0.281,United States,2,1.219,1.142,1.303,0.041
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Country of birth,Outside US,2017-20,11.2,percent,10.6,11.8,0.295,United States,1,1,1,1,0
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Obesity status - Children and Adolescents (19 years and under),With obesity,2017-20,14.2,percent,13.4,15.1,0.427,United States,1,1,1,1.062,0.01
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Obesity status - Children and Adolescents (19 years and under),Without obesity,2017-20,14.4,percent,13.8,15,0.291,United States,2,1.011,1,1.085,0.027
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Obesity status - Adults (20 years and over),With obesity,2017-20,13.1,percent,12.4,13.9,0.367,United States,2,1.036,1,1.115,0.039
+Reduce consumption of added sugars by people aged 2 years and over - NWS-10,NWS-10,Obesity status - Adults (20 years and over),Without obesity,2017-20,12.7,percent,12,13.3,0.321,United States,1,1,1,1.039,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Total,Total,2020,25.2,percent,24.6,25.8,0.357,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sex,Male,2020,29,percent,28.1,30,0.536,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sex,Female,2020,21.5,percent,20.7,22.3,0.463,United States,2,1.349,1.276,1.427,0.039
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity,American Indian or Alaska Native only,2020,17.5,percent,10.5,26.5,4.133,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity ,Asian only,2020,23.6,percent,21.2,26.2,1.262,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity ,Native Hawaiian or Other Pacific Islander only,2020,19.5,percent,10.5,31.6,4.946,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity ,Black or African American only,2020,22,percent,20.3,23.8,0.963,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity ,White only,2020,26.6,percent,25.8,27.3,0.445,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity ,2 or more races,2020,27.9,percent,23.2,33,2.402,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity ,Hispanic or Latino,2020,20.7,percent,19.1,22.4,0.839,United States,5,1.32,1.23,1.605,0.087
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity ,Not Hispanic or Latino,2020,26.1,percent,25.4,26.8,0.401,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity ,Not Hispanic or Latino: American Indian or Alaska Native only,2020,14.1,percent,7.9,22.6,3.809,United States,7,1.941,1.308,4.26,0.565
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity ,Not Hispanic or Latino: Asian only,2020,23.7,percent,21.3,26.3,1.276,United States,3,1.153,1.051,1.423,0.089
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity ,Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander only,2020,18.8,percent,10.1,30.5,4.767,United States,6,1.455,1,3.014,0.407
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity ,Not Hispanic or Latino: Black or African American only,2020,22.3,percent,20.6,24.1,0.988,United States,4,1.227,1.135,1.497,0.085
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity ,Not Hispanic or Latino: White only,2020,27.3,percent,26.5,28.1,0.481,United States,2,1.002,1,1.199,0.053
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity ,Not Hispanic or Latino: 2 or more races,2020,27.4,percent,22.3,32.9,2.607,United States,1,1,1,1.237,0.053
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,18-44 years,2020,32.2,percent,31,33.4,0.607,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,18-44 years: 18-24 years,2020,37.7,percent,34.9,40.6,1.416,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,18-44 years: 25-44 years,2020,30.3,percent,29.2,31.5,0.606,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,45-64 years,2020,20.5,percent,19.6,21.4,0.468,United States,2,1.573,1.486,1.669,0.047
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,45-64 years: 45-54 years,2020,22.4,percent,21,23.9,0.712,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,45-64 years: 55-64 years,2020,18.7,percent,17.6,19.8,0.569,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,65 years and over,2020,12.8,percent,12,13.6,0.392,United States,3,2.517,2.351,2.704,0.091
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,65 years and over: 65-74 years,2020,15.4,percent,14.3,16.5,0.565,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,65 years and over: 75-84 years,2020,10,percent,8.8,11.2,0.612,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,65 years and over: 85 years and over,2020,5.9,percent,4.4,7.6,0.792,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Educational attainment (25 years and over),Less than High school,2020,9.6,percent,8.2,11.1,0.962,United States,4,3.586,2.99,4.479,0.369
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Educational attainment (25 years and over),High school,2020,16.3,percent,15.2,17.3,0.62,United States,3,2.11,1.951,2.298,0.088
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Educational attainment (25 years and over),Some college or Associate degree,2020,22.7,percent,21.6,23.8,0.633,United States,2,1.512,1.422,1.609,0.048
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Educational attainment (25 years and over),4-year college degree or more,2020,34.3,percent,33.3,35.3,0.525,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Family income (percent poverty threshold),less than 100,2020,12.1,percent,10.5,13.7,0.832,United States,4,2.786,2.446,3.227,0.197
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Family income (percent poverty threshold),100-199,2020,16.4,percent,15.1,17.8,0.794,United States,3,2.049,1.859,2.275,0.105
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Family income (percent poverty threshold),200-399,2020,22.9,percent,21.8,24.1,0.655,United States,2,1.465,1.375,1.564,0.049
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Family income (percent poverty threshold),400 plus,2020,33.6,percent,32.7,34.6,0.57,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Health insurance status (18-64 years),Insured,2020,29,percent,28.3,29.8,0.426,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Health insurance status (18-64 years),Insured: Private,2020,31.9,percent,31,32.8,0.491,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Health insurance status (18-64 years),Insured: Public,2020,18.3,percent,16.8,19.9,0.855,United States,3,1.739,1.583,1.921,0.085
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Health insurance status (18-64 years),Uninsured,2020,19.9,percent,17.7,22.2,1.152,United States,2,1.606,1.435,1.816,0.096
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Geographic location,Metropolitan,2020,26.3,percent,25.6,26.9,0.378,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Geographic location,Non-metropolitan,2020,18,percent,16.5,19.7,1.046,United States,2,1.456,1.302,1.649,0.088
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Marital status,Married/Cohabiting partner,2020,24.8,percent,24,25.6,0.536,United States,2,1.151,1.003,1.307,0.077
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Marital status,"Divorced, separated, widowed",2020,28.5,percent,27.5,29.5,1.83,United States,1,1,1,1.007,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Marital status,Never married,2020,24.2,percent,22.8,25.6,0.715,United States,3,1.179,1.027,1.349,0.083
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Country of birth,US,2020,26.6,percent,25.8,27.4,0.455,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Country of birth,Outside US,2020,21.4,percent,19.8,23.2,0.971,United States,2,1.239,1.13,1.367,0.06
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Veteran status (20 years and over),Veteran,2020,33.3,percent,31.2,35.4,1.883,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Veteran status (20 years and over),Non-veteran,2020,24.3,percent,23.7,25,0.355,United States,2,1.369,1.215,1.526,0.08
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Disability status,People with disabilities,2020,13.1,percent,11.7,14.7,1.39,United States,2,1.995,1.644,2.522,0.215
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Disability status,People without disabilities,2020,26.2,percent,25.5,26.9,0.374,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,Straight,2020,25.4,percent,24.8,26.1,0.375,United States,2,1.185,1.001,1.374,0.096
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,"Straight: Straight, Male",2020,29.2,percent,28.2,30.1,0.551,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,"Straight: Straight, Female",2020,21.7,percent,20.9,22.5,0.492,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,Gay/Lesbian,2020,30.1,percent,25.7,34.9,2.384,United States,1,1,1,1.001,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,"Gay/Lesbian: Gay, Male",2020,32.1,percent,26.3,38.3,3.163,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,"Gay/Lesbian: Gay/Lesbian, Female",2020,27.6,percent,21,35,3.389,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,Bisexual,2020,20.4,percent,16.3,25,2.404,United States,3,1.477,1.136,1.997,0.212
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,"Bisexual: Bisexual, Male",2020,24.7,percent,15.8,35.5,5.076,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,"Bisexual: Bisexual, Female",2020,19.2,percent,14.5,24.6,3.074,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Total,Total,2022,25.3,percent,24.7,26,0.364,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sex,Male,2022,29.4,percent,28.5,30.4,0.525,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sex,Female,2022,21.3,percent,20.6,22.1,0.447,United States,2,1.378,1.305,1.455,0.038
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity,American Indian or Alaska Native only,2022,21.3,percent,15.8,27.8,2.988,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity,Asian only,2022,22.8,percent,20.5,25.2,1.211,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity,Native Hawaiian or Other Pacific Islander only,2022,27,percent,17,39,5.179,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity,Black or African American only,2022,23.5,percent,21.8,25.3,0.933,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity,White only,2022,26.4,percent,25.6,27.1,0.429,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity,2 or more races,2022,24.3,percent,20,28.9,2.12,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity,Hispanic or Latino,2022,20.9,percent,19.3,22.5,0.766,United States,6,1.323,1.223,1.867,0.152
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity,Not Hispanic or Latino,2022,26.2,percent,25.5,26.9,0.402,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity,Not Hispanic or Latino: American Indian or Alaska Native only,2022,20.6,percent,14.6,27.7,3.253,United States,7,1.341,1.045,2.221,0.274
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity,Not Hispanic or Latino: Asian only,2022,22.6,percent,20.3,25,1.21,United States,5,1.22,1.102,1.736,0.147
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity,Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander only,2022,27.6,percent,17.1,40.2,5.529,United States,1,1,1,1.625,0.108
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity,Not Hispanic or Latino: Black or African American only,2022,23.8,percent,22.1,25.7,0.976,United States,4,1.157,1.062,1.636,0.134
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity,Not Hispanic or Latino: White only,2022,27.1,percent,26.3,27.9,0.469,United States,2,1.019,1,1.424,0.117
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Race/Ethnicity,Not Hispanic or Latino: 2 or more races,2022,24.5,percent,20,29.4,2.249,United States,3,1.126,1,1.666,0.167
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,18-44 years,2022,31.8,percent,30.7,32.9,0.57,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,18-44 years: 18-24 years,2022,37.8,percent,35,40.6,1.386,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,18-44 years: 25-44 years,2022,29.8,percent,28.6,31,0.595,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,45-64 years,2022,20.4,percent,19.4,21.4,0.526,United States,2,1.561,1.469,1.662,0.049
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,45-64 years: 45-54 years,2022,23.2,percent,21.6,24.9,0.827,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,45-64 years: 55-64 years,2022,17.7,percent,16.5,18.9,0.61,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,65 years and over,2022,14.4,percent,13.6,15.3,0.45,United States,3,2.206,2.06,2.37,0.08
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,65 years and over: 65-74 years,2022,16.8,percent,15.6,18,0.614,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,65 years and over: 75-84 years,2022,12.3,percent,11,13.9,0.728,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Age group,65 years and over: 85 years and over,2022,6.2,percent,4.7,8.1,0.834,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Educational attainment (25 years and over),Less than High school,2022,7.9,percent,6.7,9.3,0.803,United States,4,4.285,3.565,5.367,0.446
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Educational attainment (25 years and over),High school,2022,15.4,percent,14.4,16.5,0.612,United States,3,2.197,2.024,2.403,0.095
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Educational attainment (25 years and over),Some college or Associate degree,2022,23,percent,21.8,24.2,0.661,United States,2,1.474,1.383,1.574,0.049
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Educational attainment (25 years and over),4-year college degree or more,2022,33.8,percent,32.8,34.9,0.565,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Family income (percent poverty threshold),less than 100,2022,12.7,percent,11.3,14.3,0.776,United States,4,2.636,2.346,3.002,0.166
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Family income (percent poverty threshold),100-199,2022,15.8,percent,14.6,17.1,0.704,United States,3,2.125,1.939,2.341,0.102
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Family income (percent poverty threshold),200-399,2022,22.7,percent,21.5,23.9,0.651,United States,2,1.48,1.389,1.581,0.05
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Family income (percent poverty threshold),400 plus,2022,33.6,percent,32.6,34.6,0.574,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Health insurance status (18-64 years),Insured,2022,28.7,percent,27.9,29.5,0.448,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Health insurance status (18-64 years),Insured: Private,2022,31.6,percent,30.7,32.6,0.51,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Health insurance status (18-64 years),Insured: Public,2022,18.7,percent,17.2,20.3,0.822,United States,3,1.692,1.546,1.86,0.079
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Health insurance status (18-64 years),Uninsured,2022,19.6,percent,17.6,21.6,1.036,United States,2,1.618,1.457,1.811,0.089
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Geographic location,Metropolitan,2022,26.4,percent,25.7,27.2,0.399,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Geographic location,Non-metropolitan,2022,18,percent,16.5,19.6,0.954,United States,2,1.467,1.322,1.643,0.081
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Marital status,Married/Cohabiting partner,2022,24.7,percent,23.9,25.5,0.534,United States,2,1.026,1,1.237,0.072
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Marital status,"Divorced, separated, widowed",2022,25.3,percent,24.2,26.5,2.566,United States,1,1,1,1.23,0.038
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Marital status,Never married,2022,24.2,percent,22.9,25.5,0.671,United States,3,1.049,1,1.27,0.074
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Country of birth,US,2022,26.5,percent,25.8,27.2,0.404,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Country of birth,Outside US,2022,20.7,percent,19.3,22.1,0.797,United States,2,1.283,1.186,1.395,0.053
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Veteran status (20 years and over),Veteran,2022,35.9,percent,33.7,38.1,1.604,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Veteran status (20 years and over),Non-veteran,2022,24.1,percent,23.5,24.8,0.364,United States,2,1.486,1.351,1.625,0.07
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Disability status,People with disabilities,2022,11.5,percent,10.2,12.9,1.151,United States,2,2.305,1.916,2.873,0.235
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Disability status,People without disabilities,2022,26.5,percent,25.8,27.2,0.38,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,Straight,2022,25.9,percent,25.2,26.5,0.381,United States,2,1.192,1.028,1.361,0.086
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,"Straight: Straight, Male",2022,29.9,percent,28.9,31,0.554,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,"Straight: Straight, Female",2022,21.7,percent,20.9,22.5,0.481,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,Gay/Lesbian,2022,30.8,percent,26.6,35.3,2.156,United States,1,1,1,1,0
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,"Gay/Lesbian: Gay, Male",2022,28.8,percent,23.4,34.6,2.822,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,"Gay/Lesbian: Gay/Lesbian, Female",2022,34.1,percent,27.5,41.1,3.343,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,Bisexual,2022,20.4,percent,16.9,24.3,2.258,United States,3,1.507,1.18,1.991,0.2
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation,"Bisexual: Bisexual, Male",2022,25,percent,17.7,33.4,3.999,United States,,,,,
+Increase the proportion of adults who do enough aerobic and muscle-strengthening activity - PA-05,PA-05,Sexual orientation ,"Bisexual: Bisexual, Female",2022,16.9,percent,13.4,20.8,2.057,United States,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
